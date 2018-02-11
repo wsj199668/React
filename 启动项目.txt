@@ -1,0 +1,2 @@
+npm install -g server
+server -s build
